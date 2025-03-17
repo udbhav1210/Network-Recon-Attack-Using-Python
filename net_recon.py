@@ -1,12 +1,5 @@
 #!/usr/bin/python3
 
-# Subject: Scripting for Cybersecurity
-# Subject Code: COMP9053
-# Assignment: 1
-# Student Name: Udbhav Singh Chauhan
-# Student Number: R00258663
-# Course: MSc in Cybersecurity
-
 # INTRO: This is a network reconnaissance script/tool that can operate in two modes: Active or Passive.
 # ACTIVE MODE: ARP requests are sent to all the 256 IPs within the subnet and the ARP responses are stored. The source MAC and IP addresses from these responses are displayed on the screen.
 # PASSIVE MODE: The tool listens for traffic and filters all the ARP responses being sent on the network. The source MAC and IP addresses from these responses are displayed on the screen.
